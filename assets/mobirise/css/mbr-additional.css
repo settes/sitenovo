@@ -795,32 +795,6 @@ blockquote {
 #menu-0 .dropdown-item[aria-expanded="true"] {
   color: #ffcc00!important;
 }
-#header1-1 {
-  
-}
-#header1-1 .lead {
-  color: #000000;
-  font-style: italic;
-}
-#header1-1 ::selection {
-  background: #000000;
-  color: #fff;
-}
-#header1-1 ::-moz-selection {
-  background: #000000;
-  color: #fff;
-}
-#header1-1 .mbr-section-title {
-  text-align: right;
-  font-family: 'Open Sans', sans-serif;
-}
-#header1-1 .mbr-section-text {
-  color: #ffffff;
-  font-size: 20px;
-}
-#header1-1 .mbr-section-text SPAN {
-  font-size: 24px;
-}
 #header7-6 .mbr-section-subtitle {
   text-transform: uppercase;
   color: #9fa3a7;
@@ -869,11 +843,6 @@ blockquote {
 }
 #features6-b .mbr-section-subtitle {
   text-transform: uppercase;
-}
-#animated-bg1-c .display-1 {
-  font-weight: 700;
-  text-transform: uppercase;
-  margin-top: 40px;
 }
 #progress-bar8-f path[stroke] {
   stroke: #ffcc00 !important;

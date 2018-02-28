@@ -189,42 +189,6 @@
           "_anchor": "menu-0"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "buttonAlign": "right",
-            "showArrow": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2c3e50",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
-            },
-            "overlay": true,
-            "overlayColor": "#f1c40f",
-            "overlayOpacity": "0.8"
-          },
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
-          "title": "<b>Seja Diferente</b><br>",
-          "text": "<span style=\"font-style: normal;\">Destaque sua marca e seus negócios no mundo digital.</span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary btn-text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">learn more</a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Layout"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-1",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full header1 mbr-section-with-arrow mbr-parallax-background\" data-rv-view=\"8\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(241, 196, 15);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container-fluid\">\n            <div class=\"row\">\n                <div class=\"col-xs-12 col-sm-10 col-sm-offset-1\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"42\"><strong>Seja Diferente</strong><br></h1>\n                    <p class=\"mbr-section-text lead mbr-editable-content\" code-editable-id=\"43\"><span style=\"font-style: normal;\">Destaque sua marca e seus negócios no mundo digital.</span></p>\n                    \n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\">\n        <a href=\"#header7-6\">\n            <img alt=\"\" src=\"@PROJECT_PATH@/assets/images/arrowdown.png\">\n        </a>\n    </div>\n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);\n.lead {\n  color: #000000;\n  font-style: italic;\n}\n::selection { background: #000000; color: #fff; } ::-moz-selection { background: #000000; color: #fff; }\n\n.mbr-section-title {\n  text-align: right;\n  font-family: 'Open Sans', sans-serif;\n}\n.mbr-section-text {\n  color: #ffffff;\n  font-size: 20px;\n}\n.mbr-section-text SPAN {\n  font-size: 24px;\n}\n",
-          "_customTemplate": true
-        },
-        {
           "_styles": {
             ".mbr-section-subtitle": {
               "text-transform": "uppercase",
@@ -713,47 +677,6 @@
           ],
           "_name": "features6",
           "_anchor": "features6-b"
-        },
-        {
-          "_styles": {
-            ".display-1": {
-              "font-weight": "700",
-              "text-transform": "uppercase",
-              "margin-top": "40px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "paddingTop": 3,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#433c5e",
-            "bgText": "Animated text background",
-            "bgTextStyle": "Montserrat",
-            "bgTextColor": "#b98eb1",
-            "bgTextSize": 250,
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.1
-          },
-          "title": "ANIMATED TEXT BACKGROUND",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Layout"
-          ],
-          "_name": "animated-bg1",
-          "_anchor": "animated-bg1-c"
         },
         {
           "_params": {
